@@ -1,18 +1,84 @@
+<div align="center">
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/invite/3VazetaU) 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:0B1B3A&height=200&section=header&text=Picsou06&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computer%20science%20student%20%C2%B7%20self-hoster%20%C2%B7%20builder&descAlignY=58&descSize=18" alt="Picsou06" width="100%" />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=flat&logo=nuxt.js&logoColor=#00DC82) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat&logo=Meta&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=flat&logo=home-assistant&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Picsou06&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Picsou06&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Picsou06&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://github.com/Picsou06">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=640&lines=Full-stack+developer;BUT+Informatique+student+%28work-study%29;I+self-host+everything+on+my+own+VPS;I+build+Discord+bots%2C+PWAs+and+tooling;Currently+building+Rackup" alt="Typing animation" />
+</a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Picsou06&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+<br/>
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/3VazetaU)
+[![Rackup](https://img.shields.io/badge/Rackup-rackup.fr-22D3EE?style=for-the-badge&logo=pwa&logoColor=white)](https://rackup.fr)
+![Profile views](https://komarev.com/ghpvc/?username=Picsou06&style=for-the-badge&color=22D3EE&label=PROFILE+VIEWS)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Picsou06&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👋 About me
+
+- 🎓 Computer science student (BUT Informatique, work-study programme), also trained at **42** (Piscine).
+- 🏋️ Building **[Rackup](https://rackup.fr)**: a free, offline-first workout tracker (PWA) with friends, rankings from Iron to Unreal, live group sessions and an MCP server so an AI assistant can plan your workout.
+- 🤖 I write Discord and Slack bots, small web apps and security-minded tooling.
+- 🖥️ I run my own VPS (Docker, Caddy, MariaDB, Uptime Kuma) and ship through GitHub Actions.
+- 📚 Always learning: TypeScript end to end, system programming in C/C++, mobile with Kotlin and Flutter.
+- 💬 Open to collaborate on open-source and student projects: say hi on Discord!
+
+---
+
+## 🛠️ Tech stack
+
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=ts,js,py,java,c,cpp,kotlin,dart,php,bash,html,css" alt="Languages" />
+
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,vue,nuxt,tailwind,vite,flutter" alt="Frontend" />
+
+**Backend & databases**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastify,flask,mariadb,mysql,postgres,mongodb" alt="Backend and databases" />
+
+**DevOps & tools**<br/>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,nginx,apache,postman,vitest,raspberrypi,arduino,pytorch" alt="DevOps and tools" />
+
+---
+
+## 🚀 Featured projects
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://github.com/Picsou06/zipguard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Picsou06&repo=zipguard&theme=dark&hide_border=true" alt="zipguard" /></a></td>
+    <td width="50%"><a href="https://github.com/Picsou06/photo-to-video"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Picsou06&repo=photo-to-video&theme=dark&hide_border=true" alt="photo-to-video" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/Picsou06/SipChecker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Picsou06&repo=SipChecker&theme=dark&hide_border=true" alt="SipChecker" /></a></td>
+    <td width="50%"><a href="https://github.com/Picsou06/personadle"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Picsou06&repo=personadle&theme=dark&hide_border=true" alt="personadle" /></a></td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Picsou06&theme=dark&hide_border=true&show_icons=true&include_all_commits=false&count_private=true" alt="GitHub stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Picsou06&theme=dark&hide_border=true&layout=compact" alt="Top languages" height="170" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Picsou06&theme=dark&hide_border=true" alt="GitHub streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Picsou06&theme=react-dark&hide_border=true&area=true" alt="Contribution activity" width="100%" />
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Picsou06&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:0B1B3A&height=110&section=footer" alt="" width="100%" />
