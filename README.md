@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:0B1B3A&height=200&section=header&text=Picsou06&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computer%20science%20student%20%C2%B7%20self-hoster%20%C2%B7%20builder&descAlignY=58&descSize=18" alt="Picsou06" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:1A0F08&height=200&section=header&text=Picsou06&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computer%20science%20student%20%C2%B7%20self-hoster%20%C2%B7%20builder&descAlignY=58&descSize=18" alt="Picsou06" width="100%" />
 
 <a href="https://github.com/Picsou06">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=640&lines=Full-stack+developer;BUT+Informatique+student+%28work-study%29;I+self-host+everything+on+my+own+VPS;I+build+Discord+bots%2C+PWAs+and+tooling;Currently+building+Rackup" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=F97316&center=true&vCenter=true&width=640&lines=Full-stack+developer;BUT+Informatique+student+%28work-study%29;I+self-host+everything+on+my+own+VPS;I+build+Discord+bots%2C+PWAs+and+tooling;Currently+building+Rackup" alt="Typing animation" />
 </a>
 
 <br/>
 
-[![Contact me](https://img.shields.io/badge/Contact%20me-22D3EE?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@picsou06.fr)
+[![Contact me](https://img.shields.io/badge/Contact%20me-F97316?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@picsou06.fr)
 [![Discord](https://img.shields.io/badge/Discord-Add%20me-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/444454073639370755)
-![Profile views](https://komarev.com/ghpvc/?username=Picsou06&style=for-the-badge&color=22D3EE&label=PROFILE+VIEWS)
+![Profile views](https://komarev.com/ghpvc/?username=Picsou06&style=for-the-badge&color=F97316&label=PROFILE+VIEWS)
 
 </div>
 
@@ -93,9 +93,9 @@ Projects running for real users on my own VPS (Docker, Caddy, MariaDB), monitore
 
 <div align="center">
 
-[![Contact me](https://img.shields.io/badge/Contact%20me-22D3EE?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@picsou06.fr)
+[![Contact me](https://img.shields.io/badge/Contact%20me-F97316?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@picsou06.fr)
 [![Discord](https://img.shields.io/badge/Discord-Add%20me-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/444454073639370755)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:0B1B3A&height=110&section=footer" alt="" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:1A0F08&height=110&section=footer" alt="" width="100%" />
