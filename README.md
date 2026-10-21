@@ -9,8 +9,7 @@
 <br/>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/3VazetaU)
-[![Rackup](https://img.shields.io/badge/Rackup-rackup.fr-22D3EE?style=for-the-badge&logo=pwa&logoColor=white)](https://rackup.fr)
-[![Contact](https://img.shields.io/badge/Contact-contact%40picsou06.fr-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@picsou06.fr)
+[![Contact me](https://img.shields.io/badge/Contact%20me-22D3EE?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@picsou06.fr)
 ![Profile views](https://komarev.com/ghpvc/?username=Picsou06&style=for-the-badge&color=22D3EE&label=PROFILE+VIEWS)
 
 </div>
@@ -45,17 +44,11 @@ Projects I run for real users, on my own VPS (Docker, Caddy, MariaDB, monitored 
 
 ## 🛠️ Tech stack
 
-**Languages**<br/>
-<img src="https://skillicons.dev/icons?i=ts,js,py,java,c,cpp,kotlin,dart,php,bash,html,css" alt="Languages" />
+<div align="center">
 
-**Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=react,vue,nuxt,tailwind,vite,flutter" alt="Frontend" />
+<img src="assets/stack.svg" alt="Technologies" width="100%" />
 
-**Backend & databases**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastify,flask,mariadb,mysql,postgres,mongodb" alt="Backend and databases" />
-
-**DevOps & tools**<br/>
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,nginx,apache,postman,vitest,raspberrypi,arduino,pytorch" alt="DevOps and tools" />
+</div>
 
 ---
 
@@ -78,29 +71,22 @@ Projects I run for real users, on my own VPS (Docker, Caddy, MariaDB, monitored 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Picsou06&theme=dark&hide_border=true&show_icons=true&include_all_commits=false&count_private=true&cache_seconds=86400" alt="GitHub stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Picsou06&theme=dark&hide_border=true&layout=compact" alt="Top languages" height="170" />
+<img src="assets/stats.svg" alt="GitHub stats" height="236" />
+<img src="assets/languages.svg" alt="Top languages" height="190" />
 
-<img src="https://streak-stats.demolab.com/?user=Picsou06&theme=dark&hide_border=true" alt="GitHub streak" />
+<img src="assets/streak.svg" alt="Streak" height="150" />
 
+<img src="assets/activity.svg" alt="Contribution activity" width="100%" />
 
 </div>
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Picsou06&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
-
 ## 📬 Contact
 
 <div align="center">
 
-[![Contact me](https://img.shields.io/badge/%E2%9C%89%20Contact%20me-contact%40picsou06.fr-22D3EE?style=for-the-badge&logoColor=white)](mailto:contact@picsou06.fr)
+[![Contact me](https://img.shields.io/badge/Contact%20me-22D3EE?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@picsou06.fr)
 [![Discord](https://img.shields.io/badge/Discord-Join%20the%20server-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/3VazetaU)
 
 </div>
