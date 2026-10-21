@@ -9,6 +9,7 @@
 <br/>
 
 [![Contact me](https://img.shields.io/badge/Contact%20me-22D3EE?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@picsou06.fr)
+[![Discord](https://img.shields.io/badge/Discord-Add%20me-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/444454073639370755)
 ![Profile views](https://komarev.com/ghpvc/?username=Picsou06&style=for-the-badge&color=22D3EE&label=PROFILE+VIEWS)
 
 </div>
@@ -93,6 +94,7 @@ Projects running for real users on my own VPS (Docker, Caddy, MariaDB), monitore
 <div align="center">
 
 [![Contact me](https://img.shields.io/badge/Contact%20me-22D3EE?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@picsou06.fr)
+[![Discord](https://img.shields.io/badge/Discord-Add%20me-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/444454073639370755)
 
 </div>
 
